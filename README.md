@@ -1,4 +1,5 @@
 <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/4cb0fca9-a54d-48be-9004-4945b87370d2" />
+
 # 💫 About Me:
  👋 Hi, I'm Jagadeesan — a Full Stack Developer who loves crafting clean, efficient code.  <br> ⚛️ I build responsive web apps using React, Node.js, and MongoDB.  <br> 🎨 Passionate about sleek UI, smooth UX, and strong backend logic.  <br> 🚀 Always learning, always building — let’s create something amazing together!
 
