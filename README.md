@@ -1,4 +1,4 @@
-![Linkedin Poster](https://github.com/user-attachments/assets/a54f10e4-285f-4b6d-ac5a-e480c0a1207f)
+![Linkedin Poster]([https://github.com/user-attachments/assets/a54f10e4-285f-4b6d-ac5a-e480c0a1207f](https://media.licdn.com/dms/image/v2/D5616AQGnRRRCMOZMUA/profile-displaybackgroundimage-shrink_200_800/B56Z6nmE9rI4AQ-/0/1780928237791?e=1784764800&v=beta&t=CjP4IBH1CUOD6sjd4osvOR2hQJDeIPowzW5X--_1Yl0))
 # 💫 About Me:
  👋 Hi, I'm Jagadeesan — a Full Stack Developer who loves crafting clean, efficient code.  <br> ⚛️ I build responsive web apps using React, Node.js, and MongoDB.  <br> 🎨 Passionate about sleek UI, smooth UX, and strong backend logic.  <br> 🚀 Always learning, always building — let’s create something amazing together!
 
